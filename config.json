@@ -1,0 +1,12 @@
+{
+    "host": "",
+    "port": 8080,
+    "db-type": "mysql",
+    "sqlite3": "main.db",
+    "mysql": {
+        "host": "",
+        "port": 3306,
+        "password": "hello",
+        "db": "sanic-db"
+    }
+}
